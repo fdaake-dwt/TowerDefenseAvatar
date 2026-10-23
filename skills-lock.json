@@ -307,6 +307,12 @@
       "skillPath": "skills/social/SKILL.md",
       "computedHash": "665681c9f0815617bcfedd5b3334404acebfe2b3dfececc67300e276c0cdcd18"
     },
+    "stop-slop": {
+      "source": "hardikpandya/stop-slop",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "617bf97d33162a6bd0da4f40a97aac589de58e5a6c9cf011ed6108992210e7cb"
+    },
     "video": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
